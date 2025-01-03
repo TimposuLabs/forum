@@ -3,8 +3,8 @@
 Repositori ini merupakan forum tanya jawab dan tempat diskusi seputar dunia pemrograman. Jika kamu punya kendala atau ide ketika belajar di Tutorial Timposu kamu dapat mengajukan pertanyaan di [forum diskusi](https://github.com/TutorialTimposu/forum/discussions).
 
 Saat ini terdapat 4 kategori forum di antaranya
-  * [Tanya Jawab / Q&A](https://github.com/TutorialTimposu/forum/discussions/categories/tanya-jawab), untuk tanya jawab seputar permasalahan seputar pemrograman dan kawan-kawannya.
-  * [Umum](https://github.com/TutorialTimposu/forum/discussions/categories/umum), kalau ini tempat kamu share apapun seputar dunia IT disini.
+  * [Tanya Jawab / Q&A](https://github.com/TutorialTimposu/forum/discussions/categories/tanya-jawab), untuk tanya jawab seputar permasalahan seputar IT, pemrograman dan kawan-kawannya.
+  * [Umum](https://github.com/TutorialTimposu/forum/discussions/categories/umum), kalau ini tempat kamu share apapun disini.
 
 ## Aturan Forum
 * Jangan promosi
